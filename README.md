@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+#### My name is Nanor Asadourian and I'm going to be creating some projects that I wanted to share with all of you!
+
+- 🔭 I’m currently working on Python, R, and Tableau tutorials. 
+- 🌱 I’m currently learning data analysis strategies 
+- 😄 Pronouns: she/her/hers
+- 🏁 Goal: Create a crochet helper application. 
+- ⚡ Fun fact: I'm a self-taught crocheter and knitter!
+
 <!--
 **nasadourian/nasadourian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
